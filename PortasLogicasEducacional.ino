@@ -2,7 +2,7 @@
 #include<LiquidCrystal_I2C.h>
 int contador=0;
 int contador2=0;
-
+ 
 const int botao = 9;   //menu 1
 const int botao2 = 5;  // entrada a 1
 const int botao3 = 6;  //entrada b 1
